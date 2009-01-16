@@ -25,3 +25,6 @@ class NotificationTest < Test::Unit::TestCase
     assert "Notification Name: TestNote\nBody:1,3,5\nType:TestType", notification.to_s
   end
 end
+# PureMVC Port to Ruby by Jake Dempsey <jake.dempsey@puremvc.org>
+# PureMVC - Copyright(c) 2006-2008 Futurescale, Inc., Some rights reserved.
+# Your reuse is governed by the Creative Commons Attribution 3.0 License
