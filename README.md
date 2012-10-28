@@ -11,7 +11,7 @@ Production - [Version 1.0](https://github.com/PureMVC/puremvc-ruby-standard-unit
 
 ## Platforms / Technologies
 * [Rake](https://github.com/jimweirich/rake)
-* [Ruby](http://en.wikipedia.org/wiki/ActionScript)
+* [Ruby](http://en.wikipedia.org/wiki/Ruby_(programming_language))
 
 ## Features 
 Tested are ...
